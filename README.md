@@ -1,1 +1,2 @@
 # PasswordGenerator
+python Main.py
